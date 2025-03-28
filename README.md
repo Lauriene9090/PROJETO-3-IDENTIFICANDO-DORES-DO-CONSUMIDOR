@@ -4,12 +4,12 @@ nome da equipe: Maria Lauriene, Emili Sophia e Riquelme.
 Professsor: Everson Sousa
 DATA: 28/03/2025
 
--procastinação:
--sobrecarga mental:
--sono desregular:
--sedentarismo:
--acumulação:
--rotina desregular:
+-procastinação
+-sobrecarga mental
+-sono desregular
+-sedentarismo
+-acumulação
+-rotina desregular
 
 PROCASTINAÇÃO: comece a ddefinir metas pequenas e alcancaveis, divida atividades grandes em atividades menores, fazer planejamento do que é prioridade, evite distrações como as redes sociais.
 

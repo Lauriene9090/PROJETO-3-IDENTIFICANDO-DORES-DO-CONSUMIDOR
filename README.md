@@ -7,6 +7,7 @@ Informações da Equipe
 - Data: 28/03/2025
 
 
+
 1. Procrastinação
 2. Sobrecarga Mental
 3. Sono Desregulado
@@ -22,6 +23,8 @@ Informações da Equipe
 13. Confiança
 14. Vícios em Redes Sociais
 15. Organização de Espaço
+
+    
 
 PROCRASTINAÇÃO
 - Divida tarefas em etapas menores: torna as tarefas menos intimidantes e mais gerenciáveis.

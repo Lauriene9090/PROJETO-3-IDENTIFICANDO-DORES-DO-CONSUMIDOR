@@ -4,21 +4,21 @@ nome da equipe: Maria Lauriene, Emili Sophia e Riquelme.
 Professsor: Everson Sousa
 DATA: 28/03/2025
 
--procastinação
--sobrecarga mental
--sono desregular
--sedentarismo
--acumulação
--rotina desregular
--comunicação
-auto-estima
--motivação
--estresse
--concentração
--estabelcer metas
--confianca
--vícios em redes sociais
--organização de espaço
+1. Procrastinação
+2. Sobrecarga Mental
+3. Sono Desregulado
+4. Sedentarismo
+5. Acumulação
+6. Rotina Desregulada
+7. Comunicação
+8. Auto-Estima
+9. Motivação
+10. Estresse
+11. Concentração
+12. Estabelecer Metas
+13. Confiança
+14. Vícios em Redes Sociais
+15. Organização de Espaço
 
 PROCRASTINAÇÃO
 - Divida tarefas em etapas menores: torna as tarefas menos intimidantes e mais gerenciáveis.

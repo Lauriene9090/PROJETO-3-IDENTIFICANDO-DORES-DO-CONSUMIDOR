@@ -79,6 +79,13 @@ PROBLEMAS COM CONFIANÇA
 - Focar nos pontos fortes: lembre-se de suas habilidades e conquistas.
 - Desenvolver habilidades novas: aprenda algo novo para aumentar a confiança em si mesmo.
 - Cercar-se de pessoas positivas: evite pessoas que o fazem se sentir mal.
+- 
+
+VÍCIOS EM REDES SOCIAIS
+- Definir limites: estabeleça um tempo limite para o uso das redes sociais por dia.
+- Usar ferramentas de controle: use aplicativos que bloqueiem o acesso às redes sociais durante certos períodos do dia.
+- Encontrar atividades alternativas: encontre outras atividades que você goste, como leitura, exercícios ou hobbies.
+- Revisar e ajustar: revise regularmente o seu uso das redes sociais e ajuste os limites conforme necessário.
 
 
 

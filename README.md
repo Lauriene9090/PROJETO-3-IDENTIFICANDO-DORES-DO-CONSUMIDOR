@@ -11,14 +11,14 @@ DATA: 28/03/2025
 -acumulação
 -rotina desregular
 -comunicação
--auto-estima
+auto-estima
 -motivação
 -estresse
 -concentração
 -estabelcer metas
 -confianca
 -vícios em redes sociais
--falta de himunidade
+-organização de espaço
 
 PROCRASTINAÇÃO
 - Divida tarefas em etapas menores: torna as tarefas menos intimidantes e mais gerenciáveis.
@@ -104,6 +104,13 @@ VÍCIOS EM REDES SOCIAIS
 - Usar ferramentas de controle: use aplicativos que bloqueiem o acesso às redes sociais durante certos períodos do dia.
 - Encontrar atividades alternativas: encontre outras atividades que você goste, como leitura, exercícios ou hobbies.
 - Revisar e ajustar: revise regularmente o seu uso das redes sociais e ajuste os limites conforme necessário.
+
+ORGANIZAÇÃO DE ESPAÇO 
+- Crie um plano de organização
+- Use caixas e recipientes
+- Desfaça-se de objetos desnecessários
+- Crie um sistema de arquivamento
+- Mantenha a área de trabalho limpa e organizada
 
 
 

@@ -2,7 +2,7 @@
 GESTÃO DE STARTUP I
 
 Informações da Equipe
-- Nome da Equipe:* Maria Lauriene, Emili Sophia e Riquelme
+- Nome da Equipe: Maria Lauriene, Emili Sophia e Riquelme
 - Professor: Everson Sousa
 - Data: 28/03/2025
 

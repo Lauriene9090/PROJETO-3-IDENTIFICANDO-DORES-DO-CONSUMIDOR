@@ -1,8 +1,11 @@
 # PROJETO-3-IDENTIFICANDO-DORES-DO-CONSUMIDOR
-disciplina: GESTAO DE STARTUP I
-nome da equipe: Maria Lauriene, Emili Sophia e Riquelme.
-Professsor: Everson Sousa
-DATA: 28/03/2025
+GESTÃO DE STARTUP I
+
+Informações da Equipe
+- Nome da Equipe:* Maria Lauriene, Emili Sophia e Riquelme
+- Professor: Everson Sousa
+- Data: 28/03/2025
+
 
 1. Procrastinação
 2. Sobrecarga Mental

@@ -20,23 +20,41 @@ DATA: 28/03/2025
 -vícios em redes sociais
 -falta de himunidade
 
-PROCASTINAÇÃO
-comece a ddefinir metas pequenas e alcancaveis, divida atividades grandes em atividades menores, fazer planejamento do que é prioridade, evite distrações como as redes sociais.
+PROCRASTINAÇÃO
+- Divida tarefas em etapas menores: torna as tarefas menos intimidantes e mais gerenciáveis.
+- Estabeleça prazos: defina prazos realistas para cada tarefa e se comprometa a cumpri-los.
+- Use a técnica Pomodoro: trabalhe em intervalos de 25 minutos, seguidos de 5 minutos de pausa.
+- Elimine distrações: desligue notificações, feche redes sociais e encontre um local de trabalho tranquilo.
 
 SOBRECARGA MENTAL
-Praticar atividades físicas, como caminhada, corrida ou esportes, Alimentar-se bem, Dividir as tarefas em pequenos pedaços, buscar apoio, entre outros.
+- Priorize tarefas: foque nas tarefas mais importantes e urgentes.
+- Delegue tarefas: se possível, delegue tarefas a outras pessoas para reduzir a carga.
+- Faça pausas: tire pausas regulares para se relaxar e se rejuvenescer.
+- Pratique técnicas de relaxamento: como meditação, respiração profunda ou yoga.
 
-SONO DESREGULAR
-estabelecer uma rotina(definir um horário para dormir e acordar), criar um ambiente propício(manter o quarto escuro, tranquilo, e não muito quente nem muito frio) e evitar estimulantes(cafeína, álcool, ou alimentos excitantes).
+SONO DESREGULADO
+- Estabeleça uma rotina de sono: vá para a cama e acorde no mesmo horário todos os dias.
+- Crie um ambiente de sono propício: mantenha o quarto escuro, silencioso e fresco.
+- Evite estimulantes antes de dormir: evite cafeína, álcool e telas antes de dormir.
+- Faça exercícios regulares: mas evite fazê-los antes de dormir.
 
 SEDENTARISMO
-evitar longos períodos de inatividade, sair da zona de conforto, organizar a sua rotina para incluir atividade física, escolher atividades que você goste.
+- Encontre atividades físicas que você goste: como caminhar, correr, nadar ou dançar.
+- Incorpore atividades físicas em sua rotina: como subir escadas em vez de usar o elevador.
+- Use um aplicativo de rastreamento de atividade: para monitorar sua atividade física e se manter motivado.
+- Encontre um parceiro de treino: para se manter motivado e responsável.
 
 ACUMULAÇÃO
-organização, Pausas, Meditação, Ajuda profissional e Cuidados pessoais.
+- Comece pequeno: comece com uma área ou um projeto pequeno e vá aumentando gradualmente.
+- Crie um plano de organização: defina metas e prazos para organizar cada área ou projeto.
+- Use caixas e recipientes: para armazenar objetos e manter a área organizada.
+- Elimine objetos desnecessários: doe ou jogue fora objetos que não são mais necessários ou úteis.
 
 ROTINA DESREGULAR
-anotar as tarefas/compromissos, não mexer no celular ao acordar, meditação, lista de gratidão, exercício físico.
+- Crie um cronograma: defina horários para cada atividade e se comprometa a cumpri-los.
+- Priorize atividades: foque nas atividades mais importantes e urgentes.
+- Use um aplicativo de gerenciamento de tempos: para monitorar seu tempo e se manter motivado.
+- Faça pausas: tire pausas regulares para se relaxar e se rejuvenescer.
 
 PROBLEMAS DE COMUNICAÇÃO
 - Prática ativa de ouvir: antes de responder, certifique-se de entender o que a outra pessoa está dizendo.
